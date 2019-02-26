@@ -8,6 +8,7 @@ import javax.swing.JLabel;
 import javax.swing.JTextField;
 import static sun.misc.ClassFileTransformer.add;
 public class PhepChia extends JFrame {
+	//v1.0
 JTextField tfa, tfb, tfkq;
 JLabel lb, lba, lbb, lbkq;
 JButton btketqua;
